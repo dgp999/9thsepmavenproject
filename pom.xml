@@ -19,8 +19,6 @@
     <finalName>CounterWebApp2</finalName>
   </build>
 </project>
-
-
 <plugins>
 [...]
   <plugin>
